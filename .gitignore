@@ -1,0 +1,15 @@
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Windows
+Thumbs.db
